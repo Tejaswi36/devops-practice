@@ -1,0 +1,17 @@
+# Environment files
+.env
+.env.*
+
+# Log files
+*.log
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Node.js dependencies
+node_modules/
+
+# Temporary files
+*.tmp
+*.temp
